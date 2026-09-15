@@ -1,0 +1,109 @@
+question,intent,subject,topic
+What is normalization in DBMS?,Definition,DBMS,Normalization
+Explain normalization in DBMS,Explanation,DBMS,Normalization
+Give an example of normalization,Example,DBMS,Normalization
+Why is normalization useful and give an example?,Explanation|Example,DBMS,Normalization
+What are primary and foreign keys?,Definition,DBMS,Keys
+Explain the purpose of a foreign key,Explanation,DBMS,Keys
+Give an example of a foreign key,Example,DBMS,Keys
+What is a database index?,Definition,DBMS,Indexes
+Explain how database indexing works,Explanation,DBMS,Indexes
+What are database transactions?,Definition,DBMS,Transactions
+Explain ACID properties,Explanation,DBMS,Transactions
+What is TCP?,Definition,Computer Networks,TCP
+Explain how TCP works,Explanation,Computer Networks,TCP
+What is UDP?,Definition,Computer Networks,UDP
+Explain how UDP works,Explanation,Computer Networks,UDP
+Compare TCP and UDP,Comparison,Computer Networks,TCP vs UDP
+Explain TCP and compare it with UDP,Explanation|Comparison,Computer Networks,TCP vs UDP
+What is TCP and give an example?,Definition|Example,Computer Networks,TCP
+Explain TCP and UDP with an example,Explanation|Example,Computer Networks,TCP vs UDP
+What is the OSI model?,Definition,Computer Networks,OSI Model
+Explain the OSI layers,Explanation,Computer Networks,OSI Model
+Give revision notes for the OSI model,Revision,Computer Networks,OSI Model
+Explain OSI layers and give revision points,Explanation|Revision,Computer Networks,OSI Model
+What is HTTP?,Definition,Computer Networks,HTTP
+Explain HTTP,Explanation,Computer Networks,HTTP
+Compare HTTP and HTTPS,Comparison,Computer Networks,HTTP vs HTTPS
+Explain why HTTPS is safer than HTTP,Explanation|Comparison,Computer Networks,HTTP vs HTTPS
+What is LAN?,Definition,Computer Networks,LAN
+Compare LAN and WAN,Comparison,Computer Networks,LAN vs WAN
+What is inheritance in Java?,Definition,Java,Inheritance
+Explain inheritance in Java,Explanation,Java,Inheritance
+Give an example of inheritance,Example,Java,Inheritance
+Explain inheritance and give an example,Explanation|Example,Java,Inheritance
+What is polymorphism?,Definition,Java,Polymorphism
+Explain polymorphism in Java,Explanation,Java,Polymorphism
+Give an example of polymorphism,Example,Java,Polymorphism
+Explain polymorphism with an example and compare it with inheritance,Explanation|Example|Comparison,Java,Polymorphism
+What is encapsulation?,Definition,Java,Encapsulation
+Explain encapsulation,Explanation,Java,Encapsulation
+What is abstraction?,Definition,Java,Abstraction
+Explain abstraction with an example,Explanation|Example,Java,Abstraction
+What is OOP?,Definition,Java,OOP
+Give revision notes for Java OOP,Revision,Java,OOP
+Compare class and object,Comparison,Java,Class and Object
+What are variables and data types in C?,Definition,C Programming,Variables and Data Types
+Explain variables and data types in C,Explanation,C Programming,Variables and Data Types
+What are loops in C?,Definition,C Programming,Loops
+Explain loops in C with an example,Explanation|Example,C Programming,Loops
+What are pointers in C?,Definition,C Programming,Pointers
+Explain pointers with an example,Explanation|Example,C Programming,Pointers
+What is a factorial program?,Definition,C Programming,Factorial
+Solve a factorial problem,Problem Solving,C Programming,Factorial
+What is an array?,Definition,Data Structures,Arrays
+Explain arrays,Explanation,Data Structures,Arrays
+Compare arrays and linked lists,Comparison,Data Structures,Array vs Linked List
+Explain arrays and compare them with linked lists,Explanation|Comparison,Data Structures,Array vs Linked List
+What is a stack?,Definition,Data Structures,Stack
+What is a queue?,Definition,Data Structures,Queue
+Compare stack and queue,Comparison,Data Structures,Stack vs Queue
+Explain stack and queue with examples,Explanation|Example,Data Structures,Stack vs Queue
+What is recursion?,Definition,Data Structures,Recursion
+Explain recursion with an example,Explanation|Example,Data Structures,Recursion
+What is a graph?,Definition,Data Structures,Graphs
+Explain graphs and give an example,Explanation|Example,Data Structures,Graphs
+What is searching in data structures?,Definition,Data Structures,Searching
+Explain binary search,Explanation,Data Structures,Searching
+What is sorting?,Definition,Data Structures,Sorting
+Explain sorting and give an example,Explanation|Example,Data Structures,Sorting
+What is SQL?,Definition,SQL,SQL Basics
+Explain SQL queries,Explanation,SQL,SQL Queries
+What are SQL joins?,Definition,SQL,Joins
+Explain SQL joins and give an example,Explanation|Example,SQL,Joins
+Compare INNER JOIN and LEFT JOIN,Comparison,SQL,Joins
+Explain SQL joins and compare INNER JOIN and LEFT JOIN,Explanation|Comparison,SQL,Joins
+What is a subquery?,Definition,SQL,Subqueries
+Explain subqueries with an example,Explanation|Example,SQL,Subqueries
+What are SQL string functions?,Definition,SQL,String Functions
+Explain SQL string functions and give examples,Explanation|Example,SQL,String Functions
+What is GROUP BY in SQL?,Definition,SQL,GROUP BY
+Explain GROUP BY and give an example,Explanation|Example,SQL,GROUP BY
+What is percentage?,Definition,Mathematics,Percentage
+Explain percentage with an example,Explanation|Example,Mathematics,Percentage
+Solve this percentage problem,Problem Solving,Mathematics,Percentage
+Give revision notes for percentage,Revision,Mathematics,Percentage
+What is profit and loss?,Definition,Mathematics,Profit and Loss
+Solve this profit percentage problem,Problem Solving,Mathematics,Profit and Loss
+Explain profit and loss with an example,Explanation|Example,Mathematics,Profit and Loss
+What is ratio and proportion?,Definition,Mathematics,Ratio and Proportion
+Explain ratio and proportion with an example,Explanation|Example,Mathematics,Ratio and Proportion
+Solve this ratio problem,Problem Solving,Mathematics,Ratio and Proportion
+What is average?,Definition,Mathematics,Average
+Explain average and solve an example,Explanation|Problem Solving,Mathematics,Average
+What is simple interest?,Definition,Mathematics,Simple Interest
+Give the formula for simple interest and solve an example,Definition|Problem Solving,Mathematics,Simple Interest
+What is compound interest?,Definition,Mathematics,Compound Interest
+Explain compound interest and solve a problem,Explanation|Problem Solving,Mathematics,Compound Interest
+What is probability?,Definition,Mathematics,Probability
+Explain probability with an example,Explanation|Example,Mathematics,Probability
+What is Python?,Definition,Python,Python Basics
+Explain Python variables,Explanation,Python,Variables
+What are Python conditions?,Definition,Python,Conditions
+Explain Python loops with an example,Explanation|Example,Python,Loops
+What are Python functions?,Definition,Python,Functions
+Explain Python functions and give an example,Explanation|Example,Python,Functions
+What are Python lists?,Definition,Python,Lists
+Compare Python lists and dictionaries,Comparison,Python,Lists and Dictionaries
+What are Python dictionaries?,Definition,Python,Dictionaries
+Explain dictionaries with an example,Explanation|Example,Python,Dictionaries
